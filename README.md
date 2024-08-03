@@ -8,19 +8,17 @@ Conducted a comprehensive analysis of Amazon's sales data using MySQL and Micros
 
 Tools & Technologies:
 
-MySQL
-Microsoft Excel
+MySQL, Microsoft Excel
+
 Steps Involved:
-
 Data Loading and Cleaning:
-
 Imported and cleaned the dataset using MySQL Workbench to ensure data accuracy and integrity.
+
 Data Analysis:
-
 Executed various SQL queries to analyze sales, customer behavior, and product performance.
+
 Insight Generation:
-
 Identified counties and products with the lowest sales performance.
-Recommendations:
 
+Recommendations:
 Formulated strategic recommendations based on the analysis to help increase sales in underperforming areas.
